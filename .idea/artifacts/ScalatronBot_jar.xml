@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="ScalatronBot:jar">
+    <output-path>$USER_HOME$/dev/Scalatron/bots/jmasramon</output-path>
+    <root id="root">
+      <element id="archive" name="ScalatronBot.jar">
+        <element id="module-output" name="JmsScalatronBot" />
+      </element>
+    </root>
+  </artifact>
+</component>
